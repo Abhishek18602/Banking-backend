@@ -113,11 +113,13 @@ Here are some screenshots from the project:
 
 
 
-!\[Screenshot 1](screenshots/Screenshot 2025-10-07 234432.png)  
+!\[Screenshot 1](screenshots/Screenshot1.png)
 
-!\[Screenshot 2](screenshots/Screenshot 2025-10-07 234450.png)  
+!\[Screenshot 2](screenshots/Screenshot2.png)
 
-!\[Screenshot 3](screenshots/Screenshot 2025-10-07 234504.png)  
+!\[Screenshot 3](screenshots/Screenshot3.png)
+
+
 
 
 
