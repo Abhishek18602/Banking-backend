@@ -105,17 +105,19 @@ http://localhost:8080/api/accounts
 
 
 
-\###  Over-All Screenshots with Output and Code
+\## Screenshots
 
 
 
-!\[Screenshot 1](./screenshots/Screenshot%202025-10-07%20234432.png)
-
-!\[Screenshot 2](./screenshots/Screenshot%202025-10-07%20234450.png)
-
-!\[Screenshot 3](./screenshots/Screenshot%202025-10-07%20234504.png)
+Here are some screenshots from the project:
 
 
+
+!\[Screenshot 1](screenshots/Screenshot 2025-10-07 234432.png)  
+
+!\[Screenshot 2](screenshots/Screenshot 2025-10-07 234450.png)  
+
+!\[Screenshot 3](screenshots/Screenshot 2025-10-07 234504.png)  
 
 
 
