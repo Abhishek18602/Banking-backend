@@ -1,3 +1,7 @@
+\### Description
+
+
+
 This is a simple Banking Management System built using Spring Boot, Spring Data JPA, and MySQL.
 
 The application demonstrates core CRUD operations on bank accounts such as creating, updating, fetching, and deleting accounts.
@@ -5,6 +9,12 @@ The application demonstrates core CRUD operations on bank accounts such as creat
 
 
 It follows a 3-layer architecture (Controller → Service → Repository) and uses DTO-Entity mapping for clean and scalable data transfer between layers.
+
+
+
+
+
+\### Features
 
 
 
@@ -30,6 +40,8 @@ It follows a 3-layer architecture (Controller → Service → Repository) and us
 
 
 
+\### Tools
+
 Component	Technology
 
 Backend	Spring Boot 3
@@ -44,6 +56,10 @@ Tools	Maven, IntelliJ IDEA
 
 Lombok	For boilerplate code reduction
 
+
+
+
+\### Project Structure
 
 
 com.Bank.Banking
@@ -64,6 +80,10 @@ com.Bank.Banking
 
 └── service.impl      # Service Implementations
 
+
+
+
+\### Configuration to use 
 git clone https://github.com/<your-username>/Banking-Application.git
 
 git clone https://github.com/<your-username>/Banking-Application.git
@@ -85,17 +105,15 @@ http://localhost:8080/api/accounts
 
 
 
-\### Over-All screenshots with output and code
+\###  Over-All Screenshots with Output and Code
 
 
 
-(screenshots/Screenshot 2025-10-07 234432.png)
+!\[Screenshot 1](./screenshots/Screenshot%202025-10-07%20234432.png)
 
-(screenshots/Screenshot 2025-10-07 234450.png)
+!\[Screenshot 2](./screenshots/Screenshot%202025-10-07%20234450.png)
 
-(screenshots/Screenshot 2025-10-07 234504.png)
-
-&nbsp;   
+!\[Screenshot 3](./screenshots/Screenshot%202025-10-07%20234504.png)
 
 
 
